@@ -1,4 +1,4 @@
-## Welcome to zary-be github homepage
+## Welcome to zary-be homepage on github
 
 You can use the [editor on GitHub](https://github.com/zary-be/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
